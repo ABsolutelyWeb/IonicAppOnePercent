@@ -1,0 +1,24 @@
+.bar-header img {
+	height: 40px;
+	width: auto;
+	vertical-align: middle;
+	margin-right: 5px;
+	margin-top: -3px;
+}
+
+.changebar {
+    background: #338dde !important;
+}
+
+h2.story-title {
+	white-space: normal;
+	height: 3.6em;
+}
+
+#title-color {
+	color: white;
+}
+
+.item-complex .item-content, .item{
+    background-color: #d2d2ff !important;
+}
