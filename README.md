@@ -10,6 +10,7 @@ NOTE: This was only tested on my 2 Android devices.
  
 **2. Framework:** 
   + Ionic
+  + AngularJS
 
 **3. Server Technology:** 
   + Node.js
